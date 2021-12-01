@@ -28,10 +28,10 @@ navegador.find_element_by_xpath('//*[@id="dropTipoBusca"]').click()
 navegador.find_element_by_xpath('//*[@id="dropStatus"]').click()
 
 navegador.find_element_by_xpath('/html/body/form/div[6]/div/div/div/div/div[2]/div[1]/div[1]/div/select/option[3]').click()
-
+                                
 navegador.find_element_by_xpath('//*[@id="dropModulo"]').click()
 
-navegador.find_element_by_xpath('//*[@id="dropModulo"]/option[14]').click()
+navegador.find_element_by_xpath('/html/body/form/div[6]/div/div/div/div/div[2]/div[1]/div[2]/div/select/option[14]').click()
 
 navegador.find_element_by_xpath('//*[@id="btBuscar"]').click()
 
